@@ -3,7 +3,7 @@ This is a learning roadmap for a simple `single-page application` for chatting.
 It includes project base and future corrections and will help you to take some experience in developing.
 **It's important to go over corrections strictly in order and exactly meet the requirements.**
 
-Any `code` quote is ready for google and research it.
+Any `code` quote is ready for google and research it. (But please, dont copy code)
 
 ## Frontend
 - Written on `JS`
