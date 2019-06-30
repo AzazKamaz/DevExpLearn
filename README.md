@@ -5,6 +5,9 @@ It includes project base and future corrections and will help you to take some e
 
 Any `code` quote is ready for google and research it. (But please, dont copy code)
 
+This project does not include any concrete steps, because with steps it will be repeating guide.
+Main goal of this project is help you to take close to real developing experience.
+
 ## Frontend
 - Written on `JS`
 - Bundled with `rollup`
