@@ -64,3 +64,7 @@ Main goal of this project is help you to take close to real developing experienc
 - Finally, the friend decided to yell with memes:
   - Add discord-like reactions for images
   - Without any protection, just like images with an emoji
+
+## Correction #9
+- There are so many messages that they are loading endless:
+  - Modify messages loading to blocks mode (on scrolling)
