@@ -9,9 +9,9 @@ This project does not include any concrete steps, because with steps it will be 
 Main goal of this project is help you to take close to real developing experience.
 
 ## Frontend
-- Written on `JS`
-- Bundled with `rollup`
-- Created using `vue.js`
+- Write on `JS`
+- Bundle with `rollup`
+- Create using `vue.js`
 - Desktop version only
 - There are two pages:
   1. Login page (nick entering)
@@ -20,8 +20,8 @@ Main goal of this project is help you to take close to real developing experienc
      - Message input field and send button
 
 ## Backend
-- Based on `node.js`
-- Used `WebSockets` for communication
+- Base on `node.js`
+- Use `WebSockets` for communication
 
 ## Correction #1
 - Lets protect user accounts: now there is a `password authentication`
@@ -68,3 +68,8 @@ Main goal of this project is help you to take close to real developing experienc
 ## Correction #9
 - There are so many messages that they are loading endless:
   - Modify messages loading to blocks mode (on scrolling)
+
+## Correction #10
+- There are travelling users, our app is not adopted for mobile:
+  - Adopt chatting app for mobile browsers
+  - Mobile and desktop should be running on the same page
